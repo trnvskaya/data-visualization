@@ -5,7 +5,7 @@
 
 This repository contains three distinct data visualization projects that explore different datasets and provide insightful visual representations.
 
-###1. Animal Shelter Data Visualization
+### 1. Animal Shelter Data Visualization
    
 *Description:*
 
@@ -18,7 +18,7 @@ This project visualizes data related to an animal shelter. It includes analysis 
 - Analyze shelter performance based on different factors.
 
   
-###2. Public Transport: Tram Stops in Prague
+### 2. Public Transport: Tram Stops in Prague
 
 *Description:*
 
@@ -31,7 +31,7 @@ This project focuses on visualizing public transportation data, specifically tra
 - Use of interactive maps to explore transportation networks.
 
   
-###3. Machine Learning Project: Life Expectancy Estimation
+### 3. Machine Learning Project: Life Expectancy Estimation
    
 *Description:*
 This project visualizes the results of a machine learning model used to estimate life expectancy across different countries. Visualizations explore factors that affect life expectancy and how well the model performs.
